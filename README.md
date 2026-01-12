@@ -1,8 +1,5 @@
 # MetroMind
 
-**Tech-Savvies**
-*January 11th, 2026*
-
 ---
 
 ## Overview
